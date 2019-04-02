@@ -6,8 +6,8 @@
 
 ***
 
-### Let's the Fun Begin
-Fun Gif
+### Let the Fun Begin
+![](images/funcat.gif)
 
 ***
 
@@ -16,92 +16,104 @@ Name: Kunjan Dalal
 <br>
 AKA : Kunjee
 <br>
-Founder Fuzzy Cloud , Co-Found The Medico
+Founder Fuzzy Cloud , Co-Founded The Medico
 <br>
 Loves to work and Teach in Functional Programming
-
-' First I like to thank everyone for coming to this talk. As there is another wonderful talk going in.
 
 ***
 
 ### Pop Quiz Time
 
-' Let me start with few questions
-' If you are expecting technical opinion or business opinion question, I am very sorry but I am not going to ask them
-' Just tell me who all are interested in stories
+![](images/questioncat.gif)
 
 ***
 
-### Trailer
+### Pass Code registration
 
-' Let's see the trailer of it first
-' I will be sharing my story how I was able to go from concept to creation within a week. And this is not agile talk
-
-***
-### Four Parts
-
-- Part 1 - Beginning
-- Part 2 - Architecture
-- Part 3 - Problems and Issues
-- Part 4 - End Game
-
-' This talk is divided in four parts, just like every other things ancient India. (Brahmacharya, Grihastha, Vanaprastha, Sannyasa, Four Yugs, Four Parts)
-
-***
-
-### Part Beginning
+![](images/passcodereg.png)
 
 ---
 
-### The Idea
+### Login
+
+![](images/login.png)
 
 ---
 
-### Decision Decision Decision
+### Add new Patient
+
+![](images/newPatient.png)
 
 ---
 
-### The Start
+### Prescription
+
+![](images/prescription.png)
 
 ***
 
-### Architecture
-
----
-
-### Elmish
-
----
-
-### Business Apps and Side menu / Xamarin Forms ‘  mess
-
----
-
-### Database / Data Store
+> Should we?
 
 ***
 
-### Problems and Issues
+### Division of Time
+
+- Satya Yuga
+- Treta Yuga
+- Dwapra Yuga
+- Kali Yuga
 
 ---
 
-### First hurdle - Edit Screen
+### Division of Human Life Span
+
+- Brahmacharya
+- Grihastha
+- Vanaprastha
+- Sannyasa
 
 ---
 
-### Bouncing of Debounce
+### Division of Knowledge
 
----
-
-### Plugins
-
----
-
-### UI Plugins
+- Rigvega
+- Yajurveda
+- Samaveda
+- Atharvaveda
 
 ***
 
-### End Game
+### Section of Talks
+
+- The Fabulous
+- Fabulous: Age of Elmish
+- Fabulous: Infinite Issues
+- Fabulous: End Game
+
+***
+
+### The Fabulous
+
+---
+
+### Choices
+
+- Flutter
+- Native Script
+- Ionic
+- Xamarin (Xamarin Forms with XAML)
+
+***
+
+### Fabulous : Age of Elmish
+
+***
+
+### Fabulous: Infinite Issue
+
+***
+
+### Fabulous: End Game
 
 ---
 
@@ -111,28 +123,10 @@ Loves to work and Teach in Functional Programming
 
 ### Deployment
 
----
+***
 
-### Final Showdown
+### Thanks
 
 ***
 
-### Thanks to Friends
-
----
-
-### Thanks to Fabulous Team
-
----
-
-### Thanks to Evelina
-
----
-
-### Thanks to Dada - Sudipta
-
----
-
-### Thanks You F# Exchange
-
----
+### Questions
